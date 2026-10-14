@@ -1,0 +1,104 @@
+2026-10-14 16:18:03.575 [info] Telemetry level is off
+2026-10-14 16:18:03.575 [info] Experiments are disabled, only manually opted experiments are active.
+2026-10-14 16:18:03.575 [warning] Dir "/voc/work/.pixi/envs" is not watchable (directory does not exist)
+2026-10-14 16:18:05.366 [info] Starting Environment refresh
+2026-10-14 16:18:05.383 [info] Skipping ActivatedEnv Detection:  process.env.VSCODE_CLI !== '1'
+2026-10-14 16:18:05.388 [info] > hatch env show --json
+2026-10-14 16:18:05.388 [info] cwd: .
+2026-10-14 16:18:05.396 [info] > conda info --json
+2026-10-14 16:18:05.414 [info] > /bin/python -I /usr/local/lib/code-server-4.126.0/lib/vscode/extensions/ms-python.python-2026.4.0/python_files/get_output_via_markers.py /usr/local/lib/code-server-4.126.0/lib/vscode/extensions/ms-python.python-2026.4.0/python_files/interpreterInfo.py
+2026-10-14 16:18:05.435 [info] Environments refresh paths discovered: 70 milliseconds
+2026-10-14 16:18:05.441 [info] Environments refresh finished (event): 76 milliseconds
+2026-10-14 16:18:05.443 [info] Python interpreter path: /bin/python
+2026-10-14 16:18:05.448 [info] Environment refresh took 83 milliseconds
+2026-10-14 16:18:05.723 [info] > pyenv which python
+2026-10-14 16:18:05.723 [info] cwd: .
+2026-10-14 16:18:07.710 [info] Starting Jedi language server for work.
+2026-10-14 16:18:32.674 [info] Running installed packages checker:  {
+  id: '/bin/python',
+  sysPrefix: '/usr',
+  envType: 'Global',
+  envName: '',
+  envPath: '',
+  path: '/bin/python',
+  architecture: 3,
+  sysVersion: '3.10.14 (main, Apr  6 2024, 18:45:05) [GCC 9.4.0]',
+  version: {
+    raw: '3.10.14',
+    major: 3,
+    minor: 10,
+    patch: 14,
+    build: [],
+    prerelease: [ 'final', '0' ]
+  },
+  displayName: 'Python 3.10.14 64-bit',
+  detailedDisplayName: 'Python 3.10.14 64-bit',
+  type: undefined
+} /usr/local/lib/code-server-4.126.0/lib/vscode/extensions/ms-python.python-2026.4.0/python_files/installed_check.py /voc/work/Week 9_Graded Mini Project Documents/Week 9_Graded Mini Project Documents/AI-RAG_MP2_MiniRAG/learner/requirements.txt
+2026-10-14 16:18:32.675 [info] > /bin/python /usr/local/lib/code-server-4.126.0/lib/vscode/extensions/ms-python.python-2026.4.0/python_files/installed_check.py "./Week 9_Graded Mini Project Documents/Week 9_Graded Mini Project Documents/AI-RAG_MP2_MiniRAG/learner/requirements.txt"
+2026-10-14 16:18:37.545 [info] Running installed packages checker:  {
+  id: '/bin/python',
+  sysPrefix: '/usr',
+  envType: 'Global',
+  envName: '',
+  envPath: '',
+  path: '/bin/python',
+  architecture: 3,
+  sysVersion: '3.10.14 (main, Apr  6 2024, 18:45:05) [GCC 9.4.0]',
+  version: {
+    raw: '3.10.14',
+    major: 3,
+    minor: 10,
+    patch: 14,
+    build: [],
+    prerelease: [ 'final', '0' ]
+  },
+  displayName: 'Python 3.10.14 64-bit',
+  detailedDisplayName: 'Python 3.10.14 64-bit',
+  type: undefined
+} /usr/local/lib/code-server-4.126.0/lib/vscode/extensions/ms-python.python-2026.4.0/python_files/installed_check.py /voc/work/Week 9_Graded Mini Project Documents/Week 9_Graded Mini Project Documents/AI-RAG_MP2_MiniRAG/learner/requirements.txt
+2026-10-14 16:18:37.545 [info] > /bin/python /usr/local/lib/code-server-4.126.0/lib/vscode/extensions/ms-python.python-2026.4.0/python_files/installed_check.py "./Week 9_Graded Mini Project Documents/Week 9_Graded Mini Project Documents/AI-RAG_MP2_MiniRAG/learner/requirements.txt"
+2026-10-14 16:29:18.318 [info] Running installed packages checker:  {
+  id: '/bin/python',
+  sysPrefix: '/usr',
+  envType: 'Global',
+  envName: '',
+  envPath: '',
+  path: '/bin/python',
+  architecture: 3,
+  sysVersion: '3.10.14 (main, Apr  6 2024, 18:45:05) [GCC 9.4.0]',
+  version: {
+    raw: '3.10.14',
+    major: 3,
+    minor: 10,
+    patch: 14,
+    build: [],
+    prerelease: [ 'final', '0' ]
+  },
+  displayName: 'Python 3.10.14 64-bit',
+  detailedDisplayName: 'Python 3.10.14 64-bit',
+  type: undefined
+} /usr/local/lib/code-server-4.126.0/lib/vscode/extensions/ms-python.python-2026.4.0/python_files/installed_check.py /voc/work/Week 9_Graded Mini Project Documents/Week 9_Graded Mini Project Documents/AI-RAG_MP2_MiniRAG/learner/requirements.txt
+2026-10-14 16:29:18.320 [info] > /bin/python /usr/local/lib/code-server-4.126.0/lib/vscode/extensions/ms-python.python-2026.4.0/python_files/installed_check.py "./Week 9_Graded Mini Project Documents/Week 9_Graded Mini Project Documents/AI-RAG_MP2_MiniRAG/learner/requirements.txt"
+2026-10-14 16:29:19.750 [info] Running installed packages checker:  {
+  id: '/bin/python',
+  sysPrefix: '/usr',
+  envType: 'Global',
+  envName: '',
+  envPath: '',
+  path: '/bin/python',
+  architecture: 3,
+  sysVersion: '3.10.14 (main, Apr  6 2024, 18:45:05) [GCC 9.4.0]',
+  version: {
+    raw: '3.10.14',
+    major: 3,
+    minor: 10,
+    patch: 14,
+    build: [],
+    prerelease: [ 'final', '0' ]
+  },
+  displayName: 'Python 3.10.14 64-bit',
+  detailedDisplayName: 'Python 3.10.14 64-bit',
+  type: undefined
+} /usr/local/lib/code-server-4.126.0/lib/vscode/extensions/ms-python.python-2026.4.0/python_files/installed_check.py /voc/work/Week 9_Graded Mini Project Documents/Week 9_Graded Mini Project Documents/AI-RAG_MP2_MiniRAG/learner/requirements.txt
+2026-10-14 16:29:19.750 [info] > /bin/python /usr/local/lib/code-server-4.126.0/lib/vscode/extensions/ms-python.python-2026.4.0/python_files/installed_check.py "./Week 9_Graded Mini Project Documents/Week 9_Graded Mini Project Documents/AI-RAG_MP2_MiniRAG/learner/requirements.txt"

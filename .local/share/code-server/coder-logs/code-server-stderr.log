@@ -1,0 +1,18 @@
+(node:67) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+File not found: /usr/local/lib/code-server-4.126.0/lib/vscode/node_modules/vsda/rust/web/vsda_bg.wasm
+File not found: /usr/local/lib/code-server-4.126.0/lib/vscode/node_modules/vsda/rust/web/vsda.js
+(node:70) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+File not found: /usr/local/lib/code-server-4.126.0/lib/vscode/node_modules/vsda/rust/web/vsda_bg.wasm
+File not found: /usr/local/lib/code-server-4.126.0/lib/vscode/node_modules/vsda/rust/web/vsda.js
+(node:71) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+File not found: /usr/local/lib/code-server-4.126.0/lib/vscode/node_modules/vsda/rust/web/vsda_bg.wasm
+File not found: /usr/local/lib/code-server-4.126.0/lib/vscode/node_modules/vsda/rust/web/vsda.js
+[19:00:37] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+(node:70) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+File not found: /usr/local/lib/code-server-4.126.0/lib/vscode/node_modules/vsda/rust/web/vsda_bg.wasm
+File not found: /usr/local/lib/code-server-4.126.0/lib/vscode/node_modules/vsda/rust/web/vsda.js
+[16:31:43] [File Watcher (node.js)] Watcher shutdown because watched path got deleted

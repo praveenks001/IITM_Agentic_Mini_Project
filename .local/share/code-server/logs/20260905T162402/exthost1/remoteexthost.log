@@ -1,0 +1,40 @@
+2026-09-05 16:24:23.055 [info] Extension host with pid 101 started
+2026-09-05 16:24:23.068 [info] Lock '/voc/work/.local/share/code-server/User/workspaceStorage/4c8edbe2/vscode.lock': Lock acquired.
+2026-09-05 16:24:23.437 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-09-05 16:24:23.438 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-09-05 16:24:23.440 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-09-05 16:24:23.440 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-09-05 16:24:23.443 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-09-05 16:24:24.444 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2026-09-05 16:24:24.444 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2026-09-05 16:24:24.447 [info] ExtensionService#_doActivateExtension synedra.auto-run-command, startup: true, activationEvent: '*'
+2026-09-05 16:24:24.752 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2026-09-05 16:24:24.752 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-09-05 16:24:26.165 [info] Eager extensions activated
+2026-09-05 16:24:26.165 [info] ExtensionService#_doActivateExtension Anthropic.claude-code, startup: false, activationEvent: 'onStartupFinished'
+2026-09-05 16:24:26.168 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2026-09-05 16:24:26.168 [info] ExtensionService#_doActivateExtension cweijan.vscode-database-client2, startup: false, activationEvent: 'onStartupFinished'
+2026-09-05 16:24:26.172 [info] ExtensionService#_doActivateExtension cweijan.vscode-office, startup: false, activationEvent: 'onStartupFinished'
+2026-09-05 16:24:26.172 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2026-09-05 16:24:26.172 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-09-05 16:24:26.172 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: 'onStartupFinished'
+2026-09-05 16:24:26.176 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-09-05 16:24:26.176 [info] ExtensionService#_doActivateExtension ms-dotnettools.vscode-dotnet-runtime, startup: false, activationEvent: 'onStartupFinished'
+2026-09-05 16:24:32.975 [error] Error: Extension dbclient-jdbc not found!
+	at r.upgradeJDBC (/usr/local/lib/code-server-4.126.0/lib/vscode/extensions/cweijan.vscode-database-client2-9.0.1/out/extension.js:157674:15)
+	at r.initTreeView (/usr/local/lib/code-server-4.126.0/lib/vscode/extensions/cweijan.vscode-database-client2-9.0.1/out/extension.js:218686:10)
+	at r.init (/usr/local/lib/code-server-4.126.0/lib/vscode/extensions/cweijan.vscode-database-client2-9.0.1/out/extension.js:218680:54)
+	at Qln (/usr/local/lib/code-server-4.126.0/lib/vscode/extensions/cweijan.vscode-database-client2-9.0.1/out/extension.js:220217:10)
+	at zd._callActivateOptional (file:///usr/local/lib/code-server-4.126.0/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:538:18738)
+	at zd._callActivate (file:///usr/local/lib/code-server-4.126.0/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:538:18448)
+	at file:///usr/local/lib/code-server-4.126.0/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:538:16422
+	at async Hb._activate (file:///usr/local/lib/code-server-4.126.0/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:534:16021)
+	at async Hb._waitForDepsThenActivate (file:///usr/local/lib/code-server-4.126.0/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:534:15963)
+	at async Hb._initialize (file:///usr/local/lib/code-server-4.126.0/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:534:15330)
+2026-09-05 16:24:44.089 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2026-09-05 16:24:44.090 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+2026-09-05 16:24:46.444 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+2026-09-05 16:24:52.629 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2026-09-05 18:47:54.902 [info] Extension host terminating: received terminate message from renderer
+2026-09-05 18:47:54.903 [info] Lock '/voc/work/.local/share/code-server/User/workspaceStorage/4c8edbe2/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2026-09-05 18:47:54.949 [info] Extension host with pid 101 exiting with code 0

@@ -1,0 +1,11 @@
+code-server (1.126.0, vocproxy-1-55.us-west-2.vocareum.com, server-distro)
+Jupyter Extension Version: 2025.9.1.
+Python Extension Version: 2026.4.0.
+Python Environment Extension not installed.
+Pylance Extension not installed.
+Platform: linux (x64).
+Home = /voc/work
+Temp Storage folder ~/.local/share/code-server/User/globalStorage/ms-toolsai.jupyter/version-2025.9.1
+Workspace folder /voc/work
+17:24:26.183 [info] Telemetry level is off
+17:24:26.183 [info] Experiments are disabled, only manually opted experiments are active.

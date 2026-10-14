@@ -1,0 +1,90 @@
+2026-10-13 15:42:37.814 [info] Extension host with pid 92 started
+2026-10-13 15:42:37.830 [info] Lock '/voc/work/.local/share/code-server/User/workspaceStorage/-3201345a/vscode.lock': Lock acquired.
+2026-10-13 15:42:38.843 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-10-13 15:42:38.844 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-10-13 15:42:39.187 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2026-10-13 15:42:39.187 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2026-10-13 15:42:39.187 [info] ExtensionService#_doActivateExtension synedra.auto-run-command, startup: true, activationEvent: '*'
+2026-10-13 15:42:39.489 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2026-10-13 15:42:39.489 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-10-13 15:42:40.180 [info] Eager extensions activated
+2026-10-13 15:42:40.181 [info] ExtensionService#_doActivateExtension Anthropic.claude-code, startup: false, activationEvent: 'onStartupFinished'
+2026-10-13 15:42:40.181 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2026-10-13 15:42:40.181 [info] ExtensionService#_doActivateExtension cweijan.vscode-database-client2, startup: false, activationEvent: 'onStartupFinished'
+2026-10-13 15:42:40.181 [info] ExtensionService#_doActivateExtension cweijan.vscode-office, startup: false, activationEvent: 'onStartupFinished'
+2026-10-13 15:42:40.181 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2026-10-13 15:42:40.181 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-10-13 15:42:40.181 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: 'onStartupFinished'
+2026-10-13 15:42:40.181 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-10-13 15:42:40.182 [info] ExtensionService#_doActivateExtension ms-dotnettools.vscode-dotnet-runtime, startup: false, activationEvent: 'onStartupFinished'
+2026-10-13 15:42:42.621 [error] Error: Extension dbclient-jdbc not found!
+	at r.upgradeJDBC (/usr/local/lib/code-server-4.126.0/lib/vscode/extensions/cweijan.vscode-database-client2-9.0.1/out/extension.js:157674:15)
+	at r.initTreeView (/usr/local/lib/code-server-4.126.0/lib/vscode/extensions/cweijan.vscode-database-client2-9.0.1/out/extension.js:218686:10)
+	at r.init (/usr/local/lib/code-server-4.126.0/lib/vscode/extensions/cweijan.vscode-database-client2-9.0.1/out/extension.js:218680:54)
+	at Qln (/usr/local/lib/code-server-4.126.0/lib/vscode/extensions/cweijan.vscode-database-client2-9.0.1/out/extension.js:220217:10)
+	at zd._callActivateOptional (file:///usr/local/lib/code-server-4.126.0/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:538:18738)
+	at zd._callActivate (file:///usr/local/lib/code-server-4.126.0/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:538:18448)
+	at file:///usr/local/lib/code-server-4.126.0/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:538:16422
+	at async Hb._activate (file:///usr/local/lib/code-server-4.126.0/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:534:16021)
+	at async Hb._waitForDepsThenActivate (file:///usr/local/lib/code-server-4.126.0/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:534:15963)
+	at async Hb._initialize (file:///usr/local/lib/code-server-4.126.0/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:534:15330)
+2026-10-13 15:43:16.855 [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: false, activationEvent: 'onNotebookSerializer:jupyter-notebook'
+2026-10-13 15:43:30.042 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2026-10-13 15:43:30.043 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2026-10-13 15:43:30.239 [warning] DiagnosticCollection with name 'eslint' does already exist.
+2026-10-13 15:43:30.903 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2026-10-13 15:43:30.903 [info] ExtensionService#_doActivateExtension vscode.mermaid-markdown-features, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2026-10-13 15:43:32.297 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2026-10-13 15:43:32.297 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+2026-10-13 15:43:33.016 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+2026-10-13 15:43:38.186 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2026-10-13 15:49:00.314 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2026-10-13 18:18:45.743 [error] [vscode.markdown-language-features] provider FAILED
+2026-10-13 18:18:45.746 [error] Error: Request markdown/getUpdatePastedLinksEdit failed with message: Cannot read properties of undefined (reading 'line')
+	at Ut (/usr/local/lib/code-server-4.126.0/lib/vscode/extensions/markdown-language-features/dist/extension.js:4:232)
+	at Ae (/usr/local/lib/code-server-4.126.0/lib/vscode/extensions/markdown-language-features/dist/extension.js:3:6852)
+	at Immediate.<anonymous> (/usr/local/lib/code-server-4.126.0/lib/vscode/extensions/markdown-language-features/dist/extension.js:3:6699)
+	at process.processImmediate (node:internal/timers:504:21)
+2026-10-13 18:19:36.894 [error] [vscode.markdown-language-features] provider FAILED
+2026-10-13 18:19:36.895 [error] Error: Request markdown/getUpdatePastedLinksEdit failed with message: Cannot read properties of undefined (reading 'line')
+	at Ut (/usr/local/lib/code-server-4.126.0/lib/vscode/extensions/markdown-language-features/dist/extension.js:4:232)
+	at Ae (/usr/local/lib/code-server-4.126.0/lib/vscode/extensions/markdown-language-features/dist/extension.js:3:6852)
+	at Immediate.<anonymous> (/usr/local/lib/code-server-4.126.0/lib/vscode/extensions/markdown-language-features/dist/extension.js:3:6699)
+	at process.processImmediate (node:internal/timers:504:21)
+2026-10-13 18:20:08.622 [error] [vscode.markdown-language-features] provider FAILED
+2026-10-13 18:20:08.622 [error] Error: Request markdown/getUpdatePastedLinksEdit failed with message: Cannot read properties of undefined (reading 'line')
+	at Ut (/usr/local/lib/code-server-4.126.0/lib/vscode/extensions/markdown-language-features/dist/extension.js:4:232)
+	at Ae (/usr/local/lib/code-server-4.126.0/lib/vscode/extensions/markdown-language-features/dist/extension.js:3:6852)
+	at Immediate.<anonymous> (/usr/local/lib/code-server-4.126.0/lib/vscode/extensions/markdown-language-features/dist/extension.js:3:6699)
+	at process.processImmediate (node:internal/timers:504:21)
+2026-10-13 18:33:48.984 [error] [vscode.markdown-language-features] provider FAILED
+2026-10-13 18:33:48.985 [error] Error: Request markdown/getUpdatePastedLinksEdit failed with message: Cannot read properties of undefined (reading 'line')
+	at Ut (/usr/local/lib/code-server-4.126.0/lib/vscode/extensions/markdown-language-features/dist/extension.js:4:232)
+	at Ae (/usr/local/lib/code-server-4.126.0/lib/vscode/extensions/markdown-language-features/dist/extension.js:3:6852)
+	at Immediate.<anonymous> (/usr/local/lib/code-server-4.126.0/lib/vscode/extensions/markdown-language-features/dist/extension.js:3:6699)
+	at process.processImmediate (node:internal/timers:504:21)
+2026-10-13 18:34:01.216 [error] [vscode.markdown-language-features] provider FAILED
+2026-10-13 18:34:01.216 [error] Error: Request markdown/getUpdatePastedLinksEdit failed with message: Cannot read properties of undefined (reading 'line')
+	at Ut (/usr/local/lib/code-server-4.126.0/lib/vscode/extensions/markdown-language-features/dist/extension.js:4:232)
+	at Ae (/usr/local/lib/code-server-4.126.0/lib/vscode/extensions/markdown-language-features/dist/extension.js:3:6852)
+	at Immediate.<anonymous> (/usr/local/lib/code-server-4.126.0/lib/vscode/extensions/markdown-language-features/dist/extension.js:3:6699)
+	at process.processImmediate (node:internal/timers:504:21)
+2026-10-13 18:34:54.092 [error] [vscode.markdown-language-features] provider FAILED
+2026-10-13 18:34:54.092 [error] Error: Request markdown/getUpdatePastedLinksEdit failed with message: Cannot read properties of undefined (reading 'line')
+	at Ut (/usr/local/lib/code-server-4.126.0/lib/vscode/extensions/markdown-language-features/dist/extension.js:4:232)
+	at Ae (/usr/local/lib/code-server-4.126.0/lib/vscode/extensions/markdown-language-features/dist/extension.js:3:6852)
+	at Immediate.<anonymous> (/usr/local/lib/code-server-4.126.0/lib/vscode/extensions/markdown-language-features/dist/extension.js:3:6699)
+	at process.processImmediate (node:internal/timers:504:21)
+2026-10-13 18:48:38.345 [error] [vscode.markdown-language-features] provider FAILED
+2026-10-13 18:48:38.346 [error] Error: Request markdown/getUpdatePastedLinksEdit failed with message: Cannot read properties of undefined (reading 'line')
+	at Ut (/usr/local/lib/code-server-4.126.0/lib/vscode/extensions/markdown-language-features/dist/extension.js:4:232)
+	at Ae (/usr/local/lib/code-server-4.126.0/lib/vscode/extensions/markdown-language-features/dist/extension.js:3:6852)
+	at Immediate.<anonymous> (/usr/local/lib/code-server-4.126.0/lib/vscode/extensions/markdown-language-features/dist/extension.js:3:6699)
+	at process.processImmediate (node:internal/timers:504:21)
+2026-10-13 19:00:56.544 [error] Error: spawn git ENOENT
+	at ChildProcess.<anonymous> (/usr/local/lib/code-server-4.126.0/lib/vscode/extensions/git/dist/main.js:22:9685)
+	at Object.onceWrapper (node:events:631:26)
+	at ChildProcess.emit (node:events:509:28)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+	at onErrorNT (node:internal/child_process:508:16)
+	at process.processTicksAndRejections (node:internal/process/task_queues:90:21)

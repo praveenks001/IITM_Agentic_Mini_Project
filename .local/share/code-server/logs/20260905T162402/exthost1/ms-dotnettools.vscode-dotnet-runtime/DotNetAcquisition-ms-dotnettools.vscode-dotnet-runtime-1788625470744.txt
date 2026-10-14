@@ -1,0 +1,115 @@
+9/5/2026, 4:24:30 PM 972 AutomaticUpdateCheck
+Checking for updates after 300000. Last Update Date: 1970-01-01T00:00:00.000Z. Current Date: 2026-09-05T16:24:30.744Z
+
+9/5/2026, 4:24:31 PM 973 AutomaticUpdateCheck
+Commencing updates at 1788625471972 in 300000 ms.
+
+9/5/2026, 4:24:31 PM 973 DotnetVSCodeExtensionFound
+true
+Checking extension Anthropic.claude-code for .NET installation requests
+
+9/5/2026, 4:24:31 PM 974 DotnetVSCodeExtensionFound
+true
+Checking extension PKief.material-icon-theme for .NET installation requests
+
+9/5/2026, 4:24:31 PM 974 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.csharp for .NET installation requests
+
+9/5/2026, 4:24:31 PM 974 DotnetVSCodeExtensionFound
+true
+Checking extension cweijan.vscode-database-client2 for .NET installation requests
+
+9/5/2026, 4:24:31 PM 974 DotnetVSCodeExtensionFound
+true
+Checking extension cweijan.vscode-office for .NET installation requests
+
+9/5/2026, 4:24:31 PM 974 DotnetVSCodeExtensionFound
+true
+Checking extension dbaeumer.vscode-eslint for .NET installation requests
+
+9/5/2026, 4:24:31 PM 974 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.dotenv for .NET installation requests
+
+9/5/2026, 4:24:31 PM 974 DotnetVSCodeExtensionFound
+true
+Checking extension ecmel.vscode-html-css for .NET installation requests
+
+9/5/2026, 4:24:31 PM 974 DotnetVSCodeExtensionFound
+true
+Checking extension formulahendry.auto-close-tag for .NET installation requests
+
+9/5/2026, 4:24:31 PM 974 DotnetVSCodeExtensionFound
+true
+Checking extension llvm-vs-code-extensions.vscode-clangd for .NET installation requests
+
+9/5/2026, 4:24:31 PM 974 DotnetVSCodeExtensionFound
+true
+Checking extension mathematic.vscode-pdf for .NET installation requests
+
+9/5/2026, 4:24:31 PM 974 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.mermaid-markdown-features for .NET installation requests
+
+9/5/2026, 4:24:31 PM 974 DotnetVSCodeExtensionFound
+true
+Checking extension ms-dotnettools.vscode-dotnet-runtime for .NET installation requests
+
+9/5/2026, 4:24:31 PM 974 DotnetVSCodeExtensionFound
+true
+Checking extension ms-toolsai.vscode-jupyter-cell-tags for .NET installation requests
+
+9/5/2026, 4:24:31 PM 974 DotnetVSCodeExtensionFound
+true
+Checking extension ms-toolsai.vscode-jupyter-slideshow for .NET installation requests
+
+9/5/2026, 4:24:31 PM 974 DotnetVSCodeExtensionFound
+true
+Checking extension ms-vscode.live-server for .NET installation requests
+
+9/5/2026, 4:24:31 PM 974 DotnetVSCodeExtensionFound
+true
+Checking extension muhammad-sammy.csharp for .NET installation requests
+
+9/5/2026, 4:24:31 PM 974 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.prompt for .NET installation requests
+
+9/5/2026, 4:24:31 PM 974 DotnetVSCodeExtensionFound
+true
+Checking extension synedra.auto-run-command for .NET installation requests
+
+9/5/2026, 4:24:31 PM 974 DotnetVSCodeExtensionFound
+true
+Checking extension vscjava.vscode-java-debug for .NET installation requests
+
+9/5/2026, 4:29:31 PM 990 GenericDotnetLockEvent
+Action: session-5eb5fae153 Lock acquired: /tmp/vscd-session-5eb5fae153.sock
+2026-09-05T16:29:31.990Z
+session-5eb5fae153
+session-5eb5fae153
+true
+
+9/5/2026, 4:29:31 PM 990 GenericDotnetLockEvent
+Action: installedLk-58e6b17e-f560-4d5e-a26b-bf9507eb9082 Lock acquired: /tmp/vscd-installedLk.sock
+2026-09-05T16:29:31.990Z
+installedLk
+installedLk
+true
+
+9/5/2026, 4:30:22 PM 246 FoundTrackingVersions
+true
+installed :
+                        
+
+9/5/2026, 4:30:22 PM 247 GenericDotnetLockEvent
+Action: installedLk-58e6b17e-f560-4d5e-a26b-bf9507eb9082 Lock freed: /tmp/vscd-installedLk.sock
+2026-09-05T16:30:22.247Z
+installedLk
+installedLk
+true
+
+9/5/2026, 4:30:22 PM 247 UpdatingInstallGroups
+Automatic update triggered and detected the following install groups: []
+
